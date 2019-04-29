@@ -1,3 +1,3 @@
 # corporate_blue #
 ## Html/css site  ##
-To watch **Demo** you can [here](https://reshetnyk.000webhostapp.com/corporate_blue/home.html).
+To watch **Demo** you can [here](https://reshetnyk.github.io/corporate_blue/home).
